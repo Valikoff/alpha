@@ -1,0 +1,12 @@
+# Temporary files
+*.py[co]
+*~
+
+# Translations
+*.[pm]o
+
+# PyCharm meta
+.idea/
+
+# Frontend
+/frontend/node_modules/
